@@ -1,7 +1,9 @@
+/*Programa Java que lee un número entero N y 
+  muestra la tabla de multiplicar de ese número.
+*/
 package TablaDeMultiplicar;
 
 import java.util.Scanner;
-
 
 public class TablaDeMultiplicar {
 

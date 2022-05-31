@@ -1,4 +1,6 @@
-
+/*Programa Java que pide un número entero por teclado y 
+  calcula y muestra el número de digitos que tiene.
+*/
 package NumeroDeDigitos;
 
 import java.util.Scanner;
